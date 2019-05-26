@@ -5,10 +5,10 @@ and uses it's knowledge to evaluate sequences that occur during a game.
 
 Libraries used:
 Python 3 Chess Library: pip3 install python-chess
-Tensorflow
-Keras
-Numpy
-Pandas
+tensorflow
+keras
+numpy
+pandas
 
 For more details about the idea, working, and explaination of Code:
 
