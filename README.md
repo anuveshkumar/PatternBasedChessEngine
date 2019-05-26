@@ -1,5 +1,5 @@
 # PatternBasedChessEngine
-A sequence based evaluation function and employed in the chess engine.
+A sequence based evaluation function employed in the chess engine.
 I devise a technique whereby as network learns the patterns in a chess game that lead to a player winning the game
 and uses it's knowledge to evaluate sequences that occur during a game.
 
