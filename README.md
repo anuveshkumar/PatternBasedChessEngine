@@ -1,7 +1,7 @@
 # PatternBasedChessEngine
 A sequence based evaluation function employed in the chess engine.
-I devise a technique whereby as network learns the patterns in a chess game that lead to a player winning the game
-and uses it's knowledge to evaluate sequences that occur during a game.
+I devise a technique whereby a network learns the patterns in a chess game that lead to a player winning the game
+and uses this knowledge to evaluate sequences that occur during a game to choose the best move.
 
 Libraries used:
 Python 3 Chess Library: pip3 install python-chess
